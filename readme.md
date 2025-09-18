@@ -1,8 +1,3 @@
-No README.md, você escreve uma explicação sobre o seu projeto. Como é um organizador de downloads, aqui vai um exemplo simples para começar:
-
----
-
-markdown
 Organizador de Downloads
 
 Este projeto em Python organiza automaticamente os arquivos da pasta `Downloads`, separando-os em subpastas de acordo com seu tipo (imagens, documentos, vídeos, áudios, etc).
